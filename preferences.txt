@@ -1,0 +1,5 @@
+Favorite movie: "The Dark Knight"
+Favorite series: "Friends"
+Favorite food: Pasta
+Favorite season: "Spring"
+Country to visit: "Italy"
