@@ -1,0 +1,4 @@
+   Full name: Parfenteva Anna Sergeevna
+   Age: 30
+   Number of pets: 0
+   Expected salary : 600 USD
